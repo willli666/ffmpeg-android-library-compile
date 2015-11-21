@@ -1,0 +1,14 @@
+prefix=/home/will/Downloads/android/ffmpeg-android/build/armeabi-v7a
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libavfilter
+Description: FFmpeg audio/video filtering library
+Version: 5.2.103
+Requires: libswscale >= 3.1.101, libswresample >= 1.1.100, libavutil >= 54.15.100
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavfilter -L/home/will/Downloads/android/ffmpeg-android/toolchain-android/lib -lx264 -lm -ldl -lfdk-aac -lm -lz -pthread -lpng -lm
+Libs.private: 
+Cflags: -I${includedir}

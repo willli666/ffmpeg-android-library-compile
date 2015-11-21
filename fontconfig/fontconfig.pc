@@ -1,0 +1,18 @@
+prefix=/home/will/Downloads/android/ffmpeg-android/toolchain-android
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+sysconfdir=${prefix}/etc
+localstatedir=${prefix}/var
+PACKAGE=fontconfig
+confdir=${sysconfdir}/fonts
+cachedir=${localstatedir}/cache/${PACKAGE}
+
+Name: Fontconfig
+Description: Font configuration and customization library
+Version: 2.11.1
+Requires:  freetype2
+Requires.private:  expat
+Libs: -L${libdir} -lfontconfig
+Libs.private: -L/home/will/Downloads/android/ffmpeg-android/toolchain-android/lib -lexpat   -L/home/will/Downloads/android/ffmpeg-android/toolchain-android/lib -lfreetype    
+Cflags: -I${includedir} -I/home/will/Downloads/android/ffmpeg-android/toolchain-android/include   -I/home/will/Downloads/android/ffmpeg-android/toolchain-android/include/freetype2 -I/home/will/Downloads/android/ffmpeg-android/toolchain-android/include/libpng16    

@@ -1,0 +1,144 @@
+fribidi-arabic.lo: fribidi-arabic.c common.h ../config.h fribidi-common.h \
+ fribidi-config.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/stdlib.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/android/api-level.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/string.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/malloc.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/xlocale.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/alloca.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/strings.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/stdint.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/wchar_limits.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/int-ll64.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/bitsperlong.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/bitsperlong.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/posix_types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/stddef.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/compiler.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/posix_types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/sysmacros.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/memory.h \
+ debug.h fribidi-types.h fribidi-common.h fribidi-begindecls.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/inttypes.h \
+ fribidi-enddecls.h fribidi-begindecls.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/stdio.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h \
+ fribidi-enddecls.h fribidi-arabic.h fribidi-types.h fribidi-flags.h \
+ fribidi-bidi-types.h fribidi-bidi-types-list.h fribidi-joining.h \
+ fribidi-joining-types.h fribidi-joining-types-list.h fribidi-unicode.h \
+ fribidi-unicode-version.h arabic-shaping.tab.i arabic-misc.tab.i
+
+common.h:
+
+../config.h:
+
+fribidi-common.h:
+
+fribidi-config.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/stdlib.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/android/api-level.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/string.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/malloc.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/xlocale.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/alloca.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/strings.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/stdint.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/wchar_limits.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/int-ll64.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/bitsperlong.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/bitsperlong.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/posix_types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/stddef.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/compiler.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/posix_types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/sysmacros.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/memory.h:
+
+debug.h:
+
+fribidi-types.h:
+
+fribidi-common.h:
+
+fribidi-begindecls.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/inttypes.h:
+
+fribidi-enddecls.h:
+
+fribidi-begindecls.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/stdio.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h:
+
+fribidi-enddecls.h:
+
+fribidi-arabic.h:
+
+fribidi-types.h:
+
+fribidi-flags.h:
+
+fribidi-bidi-types.h:
+
+fribidi-bidi-types-list.h:
+
+fribidi-joining.h:
+
+fribidi-joining-types.h:
+
+fribidi-joining-types-list.h:
+
+fribidi-unicode.h:
+
+fribidi-unicode-version.h:
+
+arabic-shaping.tab.i:
+
+arabic-misc.tab.i:

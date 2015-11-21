@@ -1,0 +1,89 @@
+getopt.o: getopt.c ../config.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/stdio.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/android/api-level.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/stdint.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/wchar_limits.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/int-ll64.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/bitsperlong.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/bitsperlong.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/posix_types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/stddef.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/compiler.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/posix_types.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/sysmacros.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/string.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/malloc.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/xlocale.h \
+ gettext.h getopt.h \
+ /home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/ctype.h \
+ getopt_int.h
+
+../config.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/stdio.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/android/api-level.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/stdint.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/wchar_limits.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/int-ll64.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/bitsperlong.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/bitsperlong.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/posix_types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/stddef.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/compiler.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/posix_types.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/sysmacros.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/string.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/malloc.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/xlocale.h:
+
+gettext.h:
+
+getopt.h:
+
+/home/will/Downloads/android/ffmpeg-android/toolchain-android/sysroot/usr/include/ctype.h:
+
+getopt_int.h:
