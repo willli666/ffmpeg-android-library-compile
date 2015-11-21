@@ -1,5 +1,9 @@
-[FFmpeg-Android](http://hiteshsondhi88.github.io/ffmpeg-android/) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FFmpeg--Android-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/925)
-==============
+this is a copy of my own ffmpeg compile script modified from writingminds's code.  
+
+
+
+
+
 
 * FFmpeg for Android compiled with x264, libass, fontconfig, freetype and fribidi
 * Supports Android L
@@ -28,6 +32,3 @@ License
 ----
   check files LICENSE.GPLv3 and LICENSE
 
-HIRE US
---------
-Get in touch with us - http://www.writingminds.com
